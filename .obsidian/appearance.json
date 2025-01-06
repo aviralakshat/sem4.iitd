@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "",
+  "textFontFamily": "Times",
+  "interfaceFontFamily": "",
+  "baseFontSize": 30,
+  "accentColor": "",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "showViewHeader": true
+}
