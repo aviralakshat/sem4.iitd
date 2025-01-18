@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf85887619063daa",
+        "id": "128f6bf8594a8d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d51187dd37ee7a",
+            "id": "1ea47de2e898441e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HSL717/HSL717 179b676d05f38028b494e23610ff3d3d.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HSL717 179b676d05f38028b494e23610ff3d3d"
             }
           }
         ]
@@ -160,20 +164,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c6d51187dd37ee7a",
+  "active": "1ea47de2e898441e",
   "lastOpenFiles": [
+    "HSL717/MLL104/allnotes.pdf",
+    "hul720/Weisskopf 2004 178b676d05f3805aa10dd515dc02e9ec.md",
+    "hul720/Links.md",
     "Lec1.md",
+    "Courses of Study 2023-24.pdf",
     "HSL717/HSL717_Ind_Eco_Jan-May2025.pdf",
     "hul720/Readings/4412578.pdf",
     "hul720/Readings/Agarwal Dreze Gupta.pdf",
     "hul720/Readings/Ag 1 BhallaSingh.pdf",
-    "hul720/Links.md",
     "hul720/Readings/SA_LVII_41_081022_Manoj Jatav_Deepika Jajoria.pdf",
     "hul720/Readings/The Welfare Policy Reader (Marshall and Titmuss).pdf",
     "hul720/Readings/Thorat-CasteDiscriminationFood-2005.pdf",
     "hul720/Readings/work141.pdf",
     "hul720/Readings/Ag 2 ACHARYA.PDF",
-    "hul720/Readings/indreg.pdf",
     "HSL717/6 Jan L1.md",
     "hul258/pack1/HUL258.md",
     "notes/National Income Accounting.md",
