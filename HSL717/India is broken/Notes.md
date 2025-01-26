@@ -371,3 +371,9 @@ Ultimately, Nehru’s legacy serves as a testament to the challenges of navigati
 - **Global Concerns:** International commentators, including the _New York Times_ and _Financial Times_, expressed apprehensions about India’s political stability and its susceptibility to authoritarian tendencies post-Nehru.
 
 This rearticulated analysis offers a comprehensive, nuanced perspective on Nehru’s tenure, contextualizing his ideals, achievements, and limitations within the broader socio-political framework of mid-20th century India.
+
+
+
+
+
+My name is Aviral.
