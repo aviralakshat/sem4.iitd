@@ -41,6 +41,7 @@ The advent of India’s independence in 1947 represented a transformative junctu
 - **Gandhi’s Attempted Mediation:**
     
     - Gandhi endeavored to harmonize their divergent approaches, metaphorically likening them to “oxen yoked to the governmental cart.” However, the assassination of Gandhi in January 1948 temporarily unified Nehru and Patel in shared grief and purpose. Their collaboration during this period demonstrated the potential for synergy between their contrasting styles of leadership.
+[[Jhajoriya PLFS.pdf]]
 
 ---
 
