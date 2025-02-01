@@ -1,11 +1,12 @@
 {
   "theme": "moonstone",
   "cssTheme": "",
-  "textFontFamily": "Times",
-  "interfaceFontFamily": "",
+  "textFontFamily": "Inter,Calibri,Times",
+  "interfaceFontFamily": "Inter",
   "baseFontSize": 10,
   "accentColor": "",
   "baseFontSizeAction": true,
   "translucency": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }
